@@ -1,3 +1,4 @@
+% edit
 
 clear all,clc
 
@@ -138,6 +139,8 @@ hold on
 plot(X, Yfcn(par,X), '-r')
 hold off
 grid
+
+% hello
 
 % find the parameters where observed values are closest to expected values
 % (function) 
