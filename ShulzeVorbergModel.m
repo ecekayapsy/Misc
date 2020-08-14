@@ -1,6 +1,8 @@
 
 clear all,clc
 
+%uhiygbhodihwebhpfol 
+
 load('ShulzeVorbModelDATA.mat') % folder: ece.kaya/MATLAB 
 
 data = data - 100*1000;         % subtract the 100 ms before stim 
